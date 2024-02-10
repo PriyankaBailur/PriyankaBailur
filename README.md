@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyankaBailur
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning React
+- 🌱I have completed the fullStack web developement course
 - 💞️ I’m looking for a job
 - 📫 How to reach me : bailurpriyanka8@gmail.com
 
